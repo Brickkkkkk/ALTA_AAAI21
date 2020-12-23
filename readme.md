@@ -1,3 +1,6 @@
+# Teaching Active Human learners
+Our AAAI21 paper "Teaching Active Human Learners" modifies the code of cvpr18.
+
 # Teaching Categories to Human Learners with Visual Explanations
 Code for recreating the results in our CVPR 2018 paper.
 
@@ -16,9 +19,3 @@ If you find our work useful in your research please consider citing our paper.
   year = {2018}
 }
 ```
-
-
-##AAAI21 suppelement
-The AAAI21 paper "Teaching Active Human Learners" modifies the code of cvpr18.
-The authors of "Teaching Active Human Learners" are not the same as "Teaching Categories to Human Learners with Visual Explanations". So the code is anonymous.
-# ALTA_AAAI21
