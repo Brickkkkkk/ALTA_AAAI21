@@ -1,5 +1,5 @@
 # Teaching Active Human learners
-Our AAAI21 paper "Teaching Active Human Learners" modifies the code of cvpr18.
+Our AAAI21 paper "Teaching Active Human Learners" modifies the [code](https://github.com/macaodha/explain_teach) of [cvpr18](https://arxiv.org/abs/1802.06924).
 
 # Teaching Categories to Human Learners with Visual Explanations
 Code for recreating the results in our CVPR 2018 paper.
