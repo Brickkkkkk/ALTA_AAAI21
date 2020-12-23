@@ -1,6 +1,10 @@
 # Teaching Active Human learners
 The code of our AAAI21 paper "Teaching Active Human Learners" is mainly modified on the [code](https://github.com/macaodha/explain_teach) of a [CVPR'18 paper](https://arxiv.org/abs/1802.06924).
 
+The main modifications are as follows:
+- Add an ALTA teacher model in ./code/teach/offline_teachers.py
+- Add a review mechanism in the teaching interface in ./code/teachingapp/templates/teaching.html
+
 # Teaching Categories to Human Learners with Visual Explanations
 Code for recreating the results in our CVPR 2018 paper.
 
