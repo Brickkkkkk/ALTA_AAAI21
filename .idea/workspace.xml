@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="459a9bbb-4e43-4a87-a5f0-f00909ff41ea" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/data/random_image_with_explain.strat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/data/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/runtime.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/butterflies_crop.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/cabbage white/0a64d25e7bba98d09c1a0c01b327fdc4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/monarch/0aebf0fce55333907ae6ae2cc592ccae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/monarch/0af3d73342ced50163e5aa8458571b2f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/monarch/0bb00c76b0e771e46c735bc85a57d7a0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/queen/3be85678d47109d8037ee9009804b0a6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/queen/3db3ba15a0a9511c5458f64f9e246263.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/red admiral/0a2058686213133b4bf06bdccf8fba37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/viceroy/01de384c2a18e81d8110a8867ce7d8cc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/viceroy/0aa19f1f8c8ccd659626e0dbbc850cd2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/teaching set/viceroy/1a534e71b77aaf6d0c244ff8eb1a4f15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/cabbage white/0a64d25e7bba98d09c1a0c01b327fdc4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/cabbage white/0b95d4d09760b5d4c28ac4cd0deae76d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/cabbage white/0e554d27083940c096430a99cf7ec643.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/cabbage white/0eae6709c4cf5837a2590d33f069140c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/cabbage white/0f37c8e774d5f328007d3d32dcf58fff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0aebf0fce55333907ae6ae2cc592ccae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0af3d73342ced50163e5aa8458571b2f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0bb00c76b0e771e46c735bc85a57d7a0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0bb8cb79b9055bfec3ae24abfa434fe0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0c6a71b70a4a98511ddd81258f6fa065.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0cd4913a2dde4c271cc100b808a5095c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0cdbfd064b163353228874886cff9604.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0d080ad48b4d7f1a2725914a062906f8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/0e27678bcfabaf9784e6440db7ed6691.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1a2688ad80f0aeaa48ca5e07bfc6ca36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1a7ff7fecf7194998a42a996c314fabf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1b5ed9c06c0c01a53e5084872ce84dde.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1bee676b82a6ca474e34fadb4d0ac1d3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1c0c9422efef26ac45ab321704d7f212.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1c6f5942e5f61f6db52afff46226b0b5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/1eb8516f540a9b2bd7e6cd64bb7ee291.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2b4ded829d48dbed3f447ad6e440e22e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2b9f9325550ea1e63ca903c4828de6f0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2bb0d3113147972dff6a7252d5a722a1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2bf65efbadaf13a934ce8495e8ce5123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2bf999f9b22b1d65a64b57cd7985475f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2c15cbf7e8ce61222a8948216f297aca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2c7fd3127dea19369b63cccba04a5764.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/2db91b2a0d25f20d948315a11b9446cb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/monarch/8c67b740bfcbf8c60a1492474ed20158.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/queen/00ee78aa7c6ff7577f37dd8953e47fa4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/queen/0dd4480bae7787e6034d4a3a23613bca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/queen/0eee360220d707cdc6f39e5101f5b206.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/queen/1a26b29386cd25bc30875ccab494f9f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/queen/1b4b67c036acc8e56fdd13a2905b0909.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/red admiral/0a52ec67bca1f6e62163c107a13ab2ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/red admiral/0a6f7c8a6c34c674c6088f7873ac396e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/red admiral/0b3e256bea937769e5d9d1a27b003a04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/red admiral/0baaf78f0ef816fe183486487908a054.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/red admiral/0f1a6f3817eacf92e7d4d497ba10b947.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/00c3bf254e62da6a55fdd34c5b109e81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0aa19f1f8c8ccd659626e0dbbc850cd2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0b2ec0204db43d94da7146ccea5a3ea8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0b61db42dc834c23082a88392242e817.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0bc3d82b4cfde39c63ed8c38a8ecdbbc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0be0943c236820a5e3bf88533a098bf2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0dbcf30084c8d3b95136ae6876ae8500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0edcc2fd9ede1dc5a26293e9bc60ad46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/0f6f9070e8a2de15027384db2fef1a76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/code/teaching_app/static/butterflies_crop/images/未命名文件夹/testing set/viceroy/1a534e71b77aaf6d0c244ff8eb1a4f15.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/application.py" afterPath="$PROJECT_DIR$/code/teaching_app/application.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/data/random_image.strat" afterPath="$PROJECT_DIR$/code/teaching_app/data/random_image.strat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/data/settings.json" afterPath="$PROJECT_DIR$/code/teaching_app/data/settings.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/data/teaching_images.json" afterPath="$PROJECT_DIR$/code/teaching_app/data/teaching_images.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/requirements.txt" afterPath="$PROJECT_DIR$/code/teaching_app/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/teaching_app/templates/teaching.html" afterPath="$PROJECT_DIR$/code/teaching_app/templates/teaching.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/review_teach3$Unittests_in_datasets_py.coverage" NAME="Unittests in datasets.py Coverage Results" MODIFIED="1598623902356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/explain" />
+    <SUITE FILE_PATH="coverage/review_teach3$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1599333409988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/review_teach3$generate_data.coverage" NAME="generate_data Coverage Results" MODIFIED="1598623156391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/data_gen" />
+    <SUITE FILE_PATH="coverage/review_teach3$process.coverage" NAME="process Coverage Results" MODIFIED="1599660908948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/results" />
+    <SUITE FILE_PATH="coverage/review_teach3$main.coverage" NAME="main Coverage Results" MODIFIED="1599640684690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/explain" />
+    <SUITE FILE_PATH="coverage/review_teach3$123asd.coverage" NAME="123asd Coverage Results" MODIFIED="1599333816668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/explain" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/teaching_app/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <marker date="1598932206659" expanded="true" signature="6385:8819" ph="..." />
+                <marker date="1598932206659" expanded="true" signature="6483:6935" ph="..." />
+                <marker date="1598932206659" expanded="true" signature="7072:7612" ph="..." />
+                <marker date="1598932206659" expanded="true" signature="7199:7298" ph="..." />
+                <marker date="1598932206659" expanded="true" signature="8848:8922" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/explain/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_output.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/explain/data_output.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datasets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/explain/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/explain/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offline_teachers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/explain/offline_teachers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-831">
+              <caret line="415" column="10" lean-forward="false" selection-start-line="415" selection-start-column="10" selection-end-line="415" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hypothesis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/explain/hypothesis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="210" column="35" lean-forward="false" selection-start-line="210" selection-start-column="35" selection-end-line="210" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1597816601578" expanded="true" signature="1203:1543" ph="..." />
+                <marker date="1597816601578" expanded="true" signature="6394:7503" ph="..." />
+                <marker date="1597816601578" expanded="true" signature="6447:6603" ph="..." />
+                <marker date="1597816601578" expanded="true" signature="6639:6928" ph="..." />
+                <marker date="1597816601578" expanded="true" signature="7254:7405" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>session['name']</find>
+      <find>-1</find>
+      <find>image_id</find>
+      <find>butterflies_crop_monarch</find>
+      <find>db</find>
+      <find>rand</find>
+      <find>hyps</find>
+      <find>hyp</find>
+      <find>alpha</find>
+      <find>phi</find>
+      <find>memory</find>
+      <find>beta</find>
+      <find>dist_matrix</find>
+      <find>sigma</find>
+      <find>ut</find>
+      <find>cuda</find>
+      <find>im</find>
+      <find>data[0]</find>
+      <find>varia</find>
+      <find>orig</find>
+      <find>resize_</find>
+      <find>resize</find>
+      <find>gen_mask</find>
+      <find>X_di</find>
+      <find>ut.</find>
+      <find>url_root</find>
+      <find>teachers</find>
+      <find>alg</find>
+      <find>im_files</find>
+      <find>op_dir</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code/teaching_app" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code/teaching_app/gunicorn.conf.py" />
+        <option value="$PROJECT_DIR$/code/teaching_app/templates/dockerfile" />
+        <option value="$PROJECT_DIR$/code/teaching_app/templates/Dockerfile" />
+        <option value="$PROJECT_DIR$/code/teaching_app/Dockerfile" />
+        <option value="$PROJECT_DIR$/code/teaching_app/requirements.txt" />
+        <option value="$PROJECT_DIR$/code/teaching_app/data/random_image.strat" />
+        <option value="$PROJECT_DIR$/code/teaching_app/templates/teaching.html" />
+        <option value="$PROJECT_DIR$/code/teaching_app/config.py" />
+        <option value="$PROJECT_DIR$/code/explain/hypothesis.py" />
+        <option value="$PROJECT_DIR$/code/explain/utils.py" />
+        <option value="$PROJECT_DIR$/code/teaching_app/application.py" />
+        <option value="$PROJECT_DIR$/code/data_gen/generate_data.py" />
+        <option value="$PROJECT_DIR$/code/explain/datasets.py" />
+        <option value="$PROJECT_DIR$/code/explain/data_output.py" />
+        <option value="$PROJECT_DIR$/code/test.py" />
+        <option value="$PROJECT_DIR$/code/explain/testing.py" />
+        <option value="$PROJECT_DIR$/code/explain/123asd.py" />
+        <option value="$PROJECT_DIR$/results/process.py" />
+        <option value="$PROJECT_DIR$/code/explain/offline_teachers.py" />
+        <option value="$PROJECT_DIR$/code/explain/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="review_teach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="explain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/py37/bin/python" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/chinese_chars_binary" />
+      <recent name="$PROJECT_DIR$/code/teaching_app/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/teaching_app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.process">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/explain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/explain/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/code/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in datasets.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/explain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/code/explain/datasets.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="123asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/explain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/explain/123asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/results" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/results/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="review_teach3" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="review_teach3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in datasets.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.123asd" />
+      <item index="4" class="java.lang.String" itemvalue="Python.process" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.process" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.123asd" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in datasets.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="459a9bbb-4e43-4a87-a5f0-f00909ff41ea" name="Default" comment="" />
+      <created>1593878929829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593878929829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_datasets_py - 2020.08.28 at 22h 11m 43s.xml">
+      <configuration name="Unittests in datasets.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.08.24 at 18h 31m 24s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.08.24 at 18h 38m 35s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.08.24 at 18h 38m 57s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.09.06 at 03h 16m 38s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2020.09.06 at 03h 16m 50s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/gunicorn.conf.py" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/readme.md" />
+    <entry file="file://$PROJECT_DIR$/data/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/gunicorn.conf.py" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/runtime.txt" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/strict.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/output/0/strict.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/output/0/actstu.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/output/2/strict.strat" />
+    <entry file="file://$PROJECT_DIR$/code/explain/output/2/actstu.strat" />
+    <entry file="file://$PROJECT_DIR$/code/explain/output/2/explain.strat" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/output/2/settings.json" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/explain.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/output/2/teaching_images.json" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/random_image_with_explain.strat" />
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/templates/teaching.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="38" column="98" lean-forward="true" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/random_image.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/distance.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/data/actstu.strat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/templates/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="19" column="93" lean-forward="false" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/py37/lib/python3.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/teaching_app/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1598932206659" expanded="true" signature="6385:8819" ph="..." />
+            <marker date="1598932206659" expanded="true" signature="6483:6935" ph="..." />
+            <marker date="1598932206659" expanded="true" signature="7072:7612" ph="..." />
+            <marker date="1598932206659" expanded="true" signature="7199:7298" ph="..." />
+            <marker date="1598932206659" expanded="true" signature="8848:8922" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data_gen/custom_augs.py" />
+    <entry file="file://$PROJECT_DIR$/code/data_gen/im_folder.py" />
+    <entry file="file://$PROJECT_DIR$/code/data_gen/generate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3495">
+          <caret line="233" column="35" lean-forward="false" selection-start-line="233" selection-start-column="35" selection-end-line="233" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/py37/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="311" column="0" lean-forward="false" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/test.py" />
+    <entry file="file://$PROJECT_DIR$/code/explain/testing.py" />
+    <entry file="file://$PROJECT_DIR$/code/explain/hypothesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="210" column="35" lean-forward="false" selection-start-line="210" selection-start-column="35" selection-end-line="210" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1597816601578" expanded="true" signature="1203:1543" ph="..." />
+            <marker date="1597816601578" expanded="true" signature="6394:7503" ph="..." />
+            <marker date="1597816601578" expanded="true" signature="6447:6603" ph="..." />
+            <marker date="1597816601578" expanded="true" signature="6639:6928" ph="..." />
+            <marker date="1597816601578" expanded="true" signature="7254:7405" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/123asd.py" />
+    <entry file="file://$PROJECT_DIR$/code/explain/offline_teachers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831">
+          <caret line="415" column="10" lean-forward="false" selection-start-line="415" selection-start-column="10" selection-end-line="415" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/data_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/explain/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
